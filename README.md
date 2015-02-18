@@ -20,14 +20,14 @@ Training ever other day is a good way to start. You can work up to whatever you 
 
 ## Arms
 
-| Exercise                  | Reps/Sets |
-|---------------------------|-----------|
-| Alternate Dumbbell Curl   | 4 x 8-12  |
-| Dumbbell Hammer Curl      | 4 x 8-12  |
-| Twenty Ones *             | 4 x 21    |
-| Skull Crushers            | 4 x 8-12  |
-| French Press              | 4 x 8-12  |
-| Kickbacks *               | 4 x 21    |
+| Exercise                  | Reps/Sets |Link|
+|---------------------------|-----------|----|
+| Alternate Dumbbell Curl   | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-alternate-bicep-curl)|
+| Dumbbell Hammer Curl      | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/hammer-curls)|
+| Twenty Ones *             | 4 x 21    |[demo](http://www.chunkfitness.com/exercises/arm-exercises/bicep-exercises/3-part-curls-21s-barbell)|
+| Skull Crushers            | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/ez-bar-skullcrusher)|
+| French Press              | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/standing-dumbbell-triceps-extension)|
+| Kickbacks *               | 4 x 21    |[demo](http://www.bodybuilding.com/exercises/detail/view/name/tricep-dumbbell-kickback)|
 > (*) These are 'pump' exercises and should be done with a lighter weight
 
 ## Chest and Shoulders
