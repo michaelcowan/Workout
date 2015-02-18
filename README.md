@@ -32,12 +32,12 @@ Training ever other day is a good way to start. You can work up to whatever you 
 
 ## Chest and Shoulders
 
-| Exercise                  | Reps/Sets |
-|---------------------------|-----------|
-| Dumbbell Fly              | 4 x 8-12  |
-| Dumbbell Press            | 4 x 8-12  |
-| Dumbbell Overhead Press   | 4 x 8-12  |
-| Raise Complex             | 3 x 8-12  |
+| Exercise                  | Reps/Sets |Link|
+|---------------------------|-----------|----|
+| Dumbbell Fly              | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-flyes)|
+| Dumbbell Press            | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-bench-press)|
+| Dumbbell Overhead Press   | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-shoulder-press)|
+| Raise Complex             | 3 x 8-12  |[demo](http://www.varietytrainer.com/dumbbell-shoulder-raise/)|
 
 ## Back and Core
 
