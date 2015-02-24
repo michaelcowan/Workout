@@ -41,19 +41,19 @@ Training ever other day is a good way to start. You can work up to whatever you 
 
 ## Back and Core
 
-| Exercise                  | Reps/Sets |
-|---------------------------|-----------|
-| Dumbbell/Barbell Pullover | 4 x 8-12  |
-| Dumbbell Row              | 4 x 8-12  |
-| Dumbbell Shrug            | 4 x 8-12  |
-| Sidebend or Russian Twist | 4 x 8-12  |
+| Exercise                  | Reps/Sets |Link|
+|---------------------------|-----------|----|
+| Dumbbell/Barbell Pullover | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/bent-arm-barbell-pullover)|
+| Dumbbell Row              | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/one-arm-dumbbell-row)|
+| Dumbbell Shrug            | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-shrug)|
+| Sidebend or Russian Twist | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-side-bend)|
 
 ## Legs
 
-| Exercise                  | Reps/Sets |
-|---------------------------|-----------|
-| Dumbbell Dead Lift        | 4 x 8-12  |
-| Dumbbell One Legged Squat | 4 x 8-12  |
-| Dumbbell Squat            | 4 x 8-12  |
-| Calf Raise                | 4 x 8-12  |
+| Exercise                  | Reps/Sets |Link|
+|---------------------------|-----------|----|
+| Dumbbell Dead Lift        | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/stiff-legged-dumbbell-deadlift)|
+| Dumbbell Split Squat      | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/split-squat-with-dumbbells)|
+| Dumbbell Squat            | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/dumbbell-squat)|
+| Calf Raise                | 4 x 8-12  |[demo](http://www.bodybuilding.com/exercises/detail/view/name/standing-dumbbell-calf-raise)|
 > You may need a little more rest when working legs i.e 2 mins between sets.
